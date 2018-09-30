@@ -1,0 +1,8 @@
+name: SignSystem
+author: bote100
+version: 1.0
+main: net.bote.signsystem.main.SignSystem
+
+commands:
+  addsign:
+  togglemaintenance:
